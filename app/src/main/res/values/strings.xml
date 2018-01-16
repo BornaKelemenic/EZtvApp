@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EZtvAPP</string>
+    <string name="ui_input_a_tv_show">Input a TV show</string>
+    <string name="placeholder">PLACEHOLDER</string>
+    <string name="ui_filter_a_show">Filter a show</string>
+    <string name="ui_view_all_tv_shows">View all TV shows</string>
+    <string name="ui_refresh_page">Refresh page</string>
+</resources>
